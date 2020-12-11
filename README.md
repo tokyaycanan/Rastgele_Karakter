@@ -8,5 +8,5 @@ RASTGELE KARAKTER VE KELİMELER
 bir kütüphane tasarlayıp test edilmesiydi.
 
 Mevcut fonksiyonlar kullanılmadan rastgelelik nanoTime() ile sağlandı. İstenilen özellikler için ayrı methotlar oluşturuldu, statik alan kullanılmadı.
-gerektiğinde methotlar birbirinden yararlandı.
+Gerektiğinde methotlar birbirinden yararlandı.
 
