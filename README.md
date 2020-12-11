@@ -1,6 +1,5 @@
 # Rastgele_Karakter
 
-# Rastgele_Karakter
 RASTGELE KARAKTER VE KELİMELER
 ÜRETEN KÜTÜPHANE
 
